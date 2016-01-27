@@ -1,0 +1,22 @@
+.amarillo {
+	background-color: yellow;
+		}
+.rojo{
+	background-color: red;
+	}
+.verde {
+	background-color: green;
+}
+div {height: 100px;
+	 width: 400px;
+	 font-size: 40px;
+	 text-align: center;
+	}
+.pdl15 {padding-left: 15px;
+}
+.pdt5{
+	padding-top: 5px;
+}
+.may{
+	text-transform: uppercase;
+}
