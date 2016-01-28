@@ -4,19 +4,31 @@
 .rojo{
 	background-color: red;
 	}
-.verde {
-	background-color: green;
+.azul {
+	background-color: blue;
 }
-div {height: 100px;
-	 width: 400px;
-	 font-size: 40px;
-	 text-align: center;
+div {height: 10%;
+	 width: 100%;
+	 font-size: 100%;
+	 text-align: left;
+	 padding-bottom: 0%;
+	 }
+p 	{margin-bottom: 0%;
+	text-align: left;
+	padding-bottom: 5%;
+	padding-top: 0%;
+	display: inline-block;
 	}
-.pdl15 {padding-left: 15px;
-}
-.pdt5{
-	padding-top: 5px;
-}
-.may{
+.pdbott {
+		}
+.pdleft15 {padding-left: 1px;
+		}
+.pdtop{
+	padding-top: 1%;
+		}
+.may	{
 	text-transform: uppercase;
-}
+		}
+.pinline{
+	display: inline-block;
+		}
